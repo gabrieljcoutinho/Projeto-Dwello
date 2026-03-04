@@ -13,7 +13,7 @@ const WhyChosee = () => {
                 <div className="flexbox">
                     <div className="divDaFlexBox"></div>
 
-                    <div className="divDaFlexBox">d</div>
+                    <div className="divDaFlexBox"></div>
 
                     <div className="divDaFlexBox">f</div>
 
