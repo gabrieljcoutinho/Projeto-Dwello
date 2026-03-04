@@ -28,7 +28,7 @@ const DreamHouse = () => {
                                                     </li>
 
                                                     <li className='itemListaAvaliacaoCasa'>
-                                                        <h4>6K+</h4>
+                                                        <h4 className='precoCasa'>6K+</h4>
                                                         <p>House Sold</p>
 
                                                     </li>
