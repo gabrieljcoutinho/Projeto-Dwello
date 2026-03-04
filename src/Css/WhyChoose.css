@@ -21,6 +21,7 @@
 .flexbox {
     display: flex;
     z-index: 10000;
+    padding: 100px;
 }
 
 .divDaFlexBox {
