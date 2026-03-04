@@ -21,7 +21,7 @@ const DreamHouse = () => {
 
                             <ul className='avaliacaoCasaPrincipal'>
 
-                                                    <li>
+                                                    <li className='itemListaAvaliacaoCasa'>
                                                         <h4>8K+</h4>
                                                         <p>House Available</p>
 
