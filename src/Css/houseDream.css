@@ -24,4 +24,5 @@ h3 {
 .avaliacaoCasaPrincipal {
     display: flex;
     font-family: 'Montserrat';
+    padding-top: 1rem;
 }
