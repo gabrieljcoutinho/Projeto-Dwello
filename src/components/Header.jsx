@@ -17,6 +17,9 @@ const Header = () => {
           <li className="listaHeader"><a href="" className="linkHeaderLista">Contact</a></li>
         </ul>
 
+        <ul className="icones">
+          </ul>Header
+
     </div>
   )
 }
