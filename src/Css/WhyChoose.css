@@ -23,6 +23,7 @@
     z-index: 10000;
     padding: 100px;
     gap: 40px;
+    padding-left: 40rem;
 }
 
 .divDaFlexBox {
