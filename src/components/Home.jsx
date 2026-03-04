@@ -12,6 +12,8 @@ const Home = () => {
                    properties meticulously tailored to yourr <br />
                    unique dream home vision</p>
 
+                   <button className="btnHome">Sing Up</button>
+
             </div>
 
             <div className="conteudoImagem">
