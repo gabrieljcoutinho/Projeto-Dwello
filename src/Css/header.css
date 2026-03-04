@@ -21,3 +21,7 @@
 .listaHeader {
     list-style-type: none;
 }
+
+.linkHeaderLista {
+    text-decoration: none;
+}
