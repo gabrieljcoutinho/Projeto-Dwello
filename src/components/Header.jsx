@@ -24,7 +24,7 @@ const Header = () => {
 <ul className="iconesHeader">
         <li className="iconesHeaderLista"><a href="" className="linkIconeHeader"><img src={imgLupaHeader} alt="" className="imgIconeHeader" /></a></li>
         <li className="iconesHeaderLista"><a href="" className="linkIconeHeader"><img src={imguserHeader} alt="" className="imgIconeHeader" /></a></li>
-        <button>Sign Up</button>
+        <button className='btnHeader'>Sign Up</button>
   </ul>
 
               </div>
