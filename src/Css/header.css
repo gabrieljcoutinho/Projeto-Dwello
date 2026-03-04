@@ -37,4 +37,5 @@
 .iconesHeader {
     display: flex;
     padding-left: 5rem;
+    gap: 20px;
 }
