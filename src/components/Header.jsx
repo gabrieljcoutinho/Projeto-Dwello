@@ -21,9 +21,9 @@ const Header = () => {
   <li className="listaHeader"><a href="" className="linkHeaderLista">Contact</a></li>
 </ul>
 
-<ul className="icones">
-        <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imgLupaHeader} alt="" className="imgIconeHeader" /></a></li>
-        <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imguserHeader} alt="" className="imgIconeHeader" /></a></li>
+<ul className="iconesHeader">
+        <li className="iconesHeaderLista"><a href="" className="linkIconeHeader"><img src={imgLupaHeader} alt="" className="imgIconeHeader" /></a></li>
+        <li className="iconesHeaderLista"><a href="" className="linkIconeHeader"><img src={imguserHeader} alt="" className="imgIconeHeader" /></a></li>
         <button>Sign Up</button>
   </ul>
 
