@@ -27,6 +27,20 @@ const DreamHouse = () => {
 
                                                     </li>
 
+                                                    <li>
+                                                        <h4>6K+</h4>
+                                                        <p>House Sold</p>
+
+                                                    </li>
+
+                                                    <li>
+                                                        <h4>2K+</h4>
+                                                        <p>Trusted Agents</p>
+
+                                                    </li>
+
+
+
                             </ul>
                 </div>
 
