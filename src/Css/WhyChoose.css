@@ -18,10 +18,12 @@
     font-family: Montserrat;
 }
 
-.flexbox{
+.flexbox {
     display: flex;
+    z-index: 10000;
 }
 
-.divDaFlexBox{
+.divDaFlexBox {
     color: #DDC7BB;
+    height: 60px;
 }
