@@ -26,6 +26,7 @@
     gap: 50px;
     padding-top: 1rem;
     padding-left: 20rem;
+    cursor: pointer;
 }
 
 .listaHeader {
