@@ -20,3 +20,7 @@ h3 {
     line-height: 30px;
 
 }
+
+.avaliacaoCasaPrincipal {
+    display: flex;
+}
