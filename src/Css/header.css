@@ -43,3 +43,8 @@
 .iconesHeaderLista {
     list-style-type: none;
 }
+
+.btnHeader{
+    background: none;
+    border: none;
+}
