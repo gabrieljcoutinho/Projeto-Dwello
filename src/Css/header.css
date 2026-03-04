@@ -39,3 +39,7 @@
     padding-left: 5rem;
     gap: 20px;
 }
+
+.iconesHeaderLista {
+    list-style-type: none;
+}
