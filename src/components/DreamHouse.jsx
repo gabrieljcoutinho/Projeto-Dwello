@@ -1,6 +1,7 @@
 import React from 'react'
 import "../Css/houseDream.css"
 
+import imgHouseDream from "../img/dreameHouse.png"
 
 const DreamHouse = () => {
   return (
