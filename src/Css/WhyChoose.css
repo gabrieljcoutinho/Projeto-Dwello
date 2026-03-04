@@ -17,3 +17,7 @@
     color: #4F3527;
     font-family: Montserrat;
 }
+
+.flexbox{
+    display: flex;
+}
