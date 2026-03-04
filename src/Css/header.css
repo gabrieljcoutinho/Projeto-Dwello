@@ -46,6 +46,7 @@
     display: flex;
     padding-left: 20rem;
     gap: 40px;
+    cursor: pointer;
 }
 
 .iconesHeaderLista {
