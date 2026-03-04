@@ -3,6 +3,8 @@ import "../Css/header.css"
 
 import imgLogo from "../img/logoPage.png"
 
+import imgLupaHeader from "../img/imgLupa.png"
+
 
 const Header = () => {
   return (
