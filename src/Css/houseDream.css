@@ -26,3 +26,7 @@ h3 {
     font-family: 'Montserrat';
     padding-top: 1rem;
 }
+
+.avaliacaoCasaPrincipa .itemListaAvaliacaoCasa h4 {
+    color: #4F3527;
+}
