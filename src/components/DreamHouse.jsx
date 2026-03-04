@@ -15,7 +15,7 @@ const DreamHouse = () => {
                         <h3>We Help You To Find <br />
                             Your Dream Home</h3>
 
-                        <p>From cozy cottages to luxurious estates, our dedicated team guides you through every step of the journey, ensuring your dream home becomes a reality</p>
+                        <p className='paragrafoDreamHouse'>From cozy cottages to luxurious estates, our dedicated team guides you through every step of the journey, ensuring your dream home becomes a reality</p>
                 </div>
 
     </div>
