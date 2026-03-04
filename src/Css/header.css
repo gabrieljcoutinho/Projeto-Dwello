@@ -12,6 +12,7 @@
 
 .itensDoHeader {
     display: flex;
+    cursor: pointer;
 }
 
 .imgLogoHeader {
