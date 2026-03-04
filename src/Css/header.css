@@ -44,7 +44,8 @@
     list-style-type: none;
 }
 
-.btnHeader{
+.btnHeader {
     background: none;
     border: none;
+    cursor: pointer;
 }
