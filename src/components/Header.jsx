@@ -23,6 +23,7 @@ const Header = () => {
         <ul className="icones">
                 <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imgLupaHeader} alt="" className="imgIconeHeader" /></a></li>
                 <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imguserHeader} alt="" className="imgIconeHeader" /></a></li>
+                <button>Sign Up</button>
           </ul>
 
     </div>
