@@ -4,7 +4,7 @@ import "../Css/WhyChoose.css"
 
 const WhyChosee = () => {
   return (
-    <div>WhyChosee</div>
+    <div className='escolhaDeCasa'>WhyChosee</div>
   )
 }
 
