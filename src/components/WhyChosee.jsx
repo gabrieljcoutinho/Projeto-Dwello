@@ -9,6 +9,14 @@ const WhyChosee = () => {
                 <h3>Why Choose Us</h3>
                 <p className="conteudoChoose">Elevating Your Home Buying Experience with Expertise, Integrity, and Unmatched Personalized Service</p>
 
+
+                <div className="flexbox">
+                    <div className="divDaFlexBox"></div>
+                    <div className="divDaFlexBox"></div>
+                    <div className="divDaFlexBox"></div>
+                    <div className="divDaFlexBox"></div>
+                </div>
+
     </div>
   )
 }
