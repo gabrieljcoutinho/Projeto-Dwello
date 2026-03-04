@@ -4,7 +4,16 @@ import "../Css/header.css"
 
 const Header = () => {
   return (
-    <div className='header'>Header</div>
+    <div className='header'>
+
+        <ul className="headerLista">
+          <li className="listaHeader"><a href="" className="linkHeaderLista"></a></li>
+          <li className="listaHeader"><a href="" className="linkHeaderLista"></a></li>
+          <li className="listaHeader"><a href="" className="linkHeaderLista"></a></li>
+          <li className="listaHeader"><a href="" className="linkHeaderLista"></a></li>
+        </ul>
+
+    </div>
   )
 }
 
