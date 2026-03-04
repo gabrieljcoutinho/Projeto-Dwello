@@ -5,7 +5,13 @@ const Home = () => {
   return (
     <div className='Home'>
 
-        Home
+            <div className="conteudoEscrito">
+
+            </div>
+
+            <div className="conteudoImagem">
+
+            </div>
 
         </div>
   )
