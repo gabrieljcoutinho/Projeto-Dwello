@@ -31,3 +31,7 @@ h4 {
     color: #4F3527;
     font-size: 30px;
 }
+
+.itemListaAvaliacaoCasa {
+    list-style-type: none;
+}
