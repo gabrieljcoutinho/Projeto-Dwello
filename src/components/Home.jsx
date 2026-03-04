@@ -1,6 +1,8 @@
 import React from 'react'
 import "../Css/home.css"
 
+import imgHomeCasa from "../img/imgHome.png"
+
 const Home = () => {
   return (
     <div className='Home'>
@@ -21,7 +23,7 @@ const Home = () => {
             </div>
 
             <div className="conteudoImagem">
-
+          <img src={imgHomeCasa} alt="" />
             </div>
 
         </div>
