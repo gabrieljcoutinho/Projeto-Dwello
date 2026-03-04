@@ -18,7 +18,8 @@ const Header = () => {
         </ul>
 
         <ul className="icones">
-          
+                <li className="iconesHeader"><a href="" className="linkIconeHeader"></a></li>
+                <li className="iconesHeader"><a href="" className="linkIconeHeader"></a></li>
           </ul>Header
 
     </div>
