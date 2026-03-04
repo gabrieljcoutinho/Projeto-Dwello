@@ -33,7 +33,7 @@ const DreamHouse = () => {
 
                                                     </li>
 
-                                                    <li>
+                                                    <li className='itemListaAvaliacaoCasa'>
                                                         <h4>2K+</h4>
                                                         <p>Trusted Agents</p>
 
