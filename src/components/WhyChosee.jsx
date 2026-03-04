@@ -15,7 +15,7 @@ const WhyChosee = () => {
 
                     <div className="divDaFlexBox"></div>
 
-                    <div className="divDaFlexBox">f</div>
+                    <div className="divDaFlexBox"></div>
 
                     <div className="divDaFlexBox">a</div>
                 </div>
