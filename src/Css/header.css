@@ -3,9 +3,12 @@
 .header {
     background-color: #F9F4F1;
     padding-left: 5rem;
-    display: flex;
     height: 10rem;
     padding-top: 1.5rem;
+}
+
+.itensDoHeader {
+    display: flex;
 }
 
 .imgLogoHeader {
@@ -29,8 +32,4 @@
     color: #2B1B12;
     font-family: 'Montserrat';
     font-weight: 700;
-}
-
-.itensDoHeader {
-    display: flex;
 }
