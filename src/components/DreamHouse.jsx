@@ -6,7 +6,13 @@ const DreamHouse = () => {
   return (
     <div className='dreamHouseDiv'>
 
+                <div className="imgDreamHouse">
 
+                </div>
+
+                <div className="conteudoDreamHouse">
+
+                </div>
 
     </div>
   )
