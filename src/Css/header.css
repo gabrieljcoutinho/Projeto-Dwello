@@ -17,6 +17,7 @@
 
 .imgLogoHeader {
     height: 40px;
+    cursor: pointer;
 }
 
 .headerLista {
