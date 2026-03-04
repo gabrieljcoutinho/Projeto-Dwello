@@ -15,3 +15,14 @@
     font-family: 'Montserrat';
     font-weight: bold;
 }
+
+.btnHome{
+    background: none;
+    border: none;
+    cursor: pointer;
+    background-color: #2B1B12;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100px;
+}
