@@ -33,3 +33,7 @@
     font-family: 'Montserrat';
     font-weight: 700;
 }
+
+.iconesHeader {
+    display: flex;
+}
