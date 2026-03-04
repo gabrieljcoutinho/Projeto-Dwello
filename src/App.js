@@ -3,6 +3,7 @@ import '../src/index.css';
 import Header from './components/Header.jsx';
 import Home from './components/Home.jsx';
 import DreamHouse from './components/DreamHouse.jsx';
+import WhyChosee from './components/WhyChosee.jsx';
 
 
 function App() {
