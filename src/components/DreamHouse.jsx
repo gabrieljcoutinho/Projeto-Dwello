@@ -8,7 +8,7 @@ const DreamHouse = () => {
     <div className='dreamHouseDiv'>
 
                 <div className="imgDreamHouse">
-
+                    <img src={imgHouseDream} alt="" />
                 </div>
 
                 <div className="conteudoDreamHouse">
