@@ -11,21 +11,23 @@ const Header = () => {
   return (
     <div className='header'>
 
-      <img src={imgLogo} alt=""  className='imgLogoHeader'/>
+              <div className="itensDoHeader">
+              <img src={imgLogo} alt=""  className='imgLogoHeader'/>
 
-        <ul className="headerLista">
-          <li className="listaHeader"><a href="" className="linkHeaderLista">Home</a></li>
-          <li className="listaHeader"><a href="" className="linkHeaderLista">Services</a></li>
-          <li className="listaHeader"><a href="" className="linkHeaderLista">Agents</a></li>
-          <li className="listaHeader"><a href="" className="linkHeaderLista">Contact</a></li>
-        </ul>
+<ul className="headerLista">
+  <li className="listaHeader"><a href="" className="linkHeaderLista">Home</a></li>
+  <li className="listaHeader"><a href="" className="linkHeaderLista">Services</a></li>
+  <li className="listaHeader"><a href="" className="linkHeaderLista">Agents</a></li>
+  <li className="listaHeader"><a href="" className="linkHeaderLista">Contact</a></li>
+</ul>
 
-        <ul className="icones">
-                <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imgLupaHeader} alt="" className="imgIconeHeader" /></a></li>
-                <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imguserHeader} alt="" className="imgIconeHeader" /></a></li>
-                <button>Sign Up</button>
-          </ul>
+<ul className="icones">
+        <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imgLupaHeader} alt="" className="imgIconeHeader" /></a></li>
+        <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imguserHeader} alt="" className="imgIconeHeader" /></a></li>
+        <button>Sign Up</button>
+  </ul>
 
+              </div>
     </div>
   )
 }
