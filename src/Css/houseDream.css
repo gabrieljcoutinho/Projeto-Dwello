@@ -1,4 +1,4 @@
-@import url("../fonts//Montserrat.css")
+@import url("../fonts//Montserrat.css");
 
 .dreamHouseDiv {
     display: flex;
@@ -7,6 +7,7 @@
     gap: 210px;
 }
 
-h3{
+h3 {
     color: #2B1B12;
+    font-family: 'Montserrat';
 }
