@@ -19,7 +19,7 @@ const DreamHouse = () => {
                             dedicated team guides you through every step of the<br />
                             journey, ensuring your dream home becomes a reality</p>
 
-                            <ul>
+                            <ul className='avaliacaoCasaPrincipal'>
 
                                                     <li>
                                                         <h4>8K+</h4>
