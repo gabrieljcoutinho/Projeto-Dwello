@@ -4,7 +4,11 @@ import "../Css/houseDream.css"
 
 const DreamHouse = () => {
   return (
-    <div>fg</div>
+    <div className='dreamHouseDiv'>
+
+
+
+    </div>
   )
 }
 
