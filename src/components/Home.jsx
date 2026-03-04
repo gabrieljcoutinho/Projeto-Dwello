@@ -8,9 +8,13 @@ const Home = () => {
             <div className="conteudoEscrito">
                 <h1 className="tituloPrincipal">Find Your <br />  Dream Home</h1>
 
+                <br />
+
                 <p className="paragrafoPrincipal">Explore our curated selection of exquisiter <br />
                    properties meticulously tailored to yourr <br />
                    unique dream home vision</p>
+
+                   <br /><br />
 
                    <button className="btnHome">Sing Up</button>
 
