@@ -23,7 +23,7 @@ const Home = () => {
             </div>
 
             <div className="conteudoImagem">
-          <img src={imgHomeCasa} alt="" />
+          <img src={imgHomeCasa} alt=""  className='imgHouseHome'/>
             </div>
 
         </div>
