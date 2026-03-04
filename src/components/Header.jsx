@@ -20,7 +20,7 @@ const Header = () => {
         </ul>
 
         <ul className="icones">
-                <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src="" alt="" className="imgIconeHeader" /></a></li>
+                <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src={imgLupaHeader} alt="" className="imgIconeHeader" /></a></li>
                 <li className="iconesHeader"><a href="" className="linkIconeHeader"><img src="" alt="" className="imgIconeHeader" /></a></li>
           </ul>
 
