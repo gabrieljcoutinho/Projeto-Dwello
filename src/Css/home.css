@@ -16,13 +16,13 @@
     font-weight: bold;
 }
 
-.btnHome{
+.btnHome {
     background: none;
     border: none;
     cursor: pointer;
     background-color: #2B1B12;
     color: #FFFFFF;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     width: 100px;
 }
