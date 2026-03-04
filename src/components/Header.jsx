@@ -1,10 +1,14 @@
 import React from 'react'
 import "../Css/header.css"
 
+import imgLogo from "../img/logoPage.png"
+
 
 const Header = () => {
   return (
     <div className='header'>
+
+      <img src={imgLogo} alt="" />
 
         <ul className="headerLista">
           <li className="listaHeader"><a href="" className="linkHeaderLista">Home</a></li>
