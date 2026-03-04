@@ -17,3 +17,7 @@
     padding-top: 1rem;
     padding-left: 10rem;
 }
+
+.listaHeader {
+    list-style-type: none;
+}
