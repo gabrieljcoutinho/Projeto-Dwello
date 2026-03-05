@@ -21,6 +21,7 @@ const WhyChosee = () => {
 
                             <div className="movimentacaoDaImg">
                             <img src={iconeLocalizacao} alt="" />
+                            <br />
 
                             <h4 className="tituloWhyChoseeDivs">Expert Guidance</h4>
                             <p className="paragrafoWhyChooseUs">
