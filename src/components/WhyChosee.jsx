@@ -24,7 +24,7 @@ const WhyChosee = () => {
 
                             <h4 className="tituloWhyChoseeDivs">Expert Guidance</h4>
                             <p className="paragrafoWhyChooseUs">
-                              
+
                             </p>
                             </div>
 
@@ -37,6 +37,9 @@ const WhyChosee = () => {
                             <div className="movimentacaoDaImg">
                             <img src={iconeServices} alt="" />
                             <h4 className="tituloWhyChoseeDivs">Personalized Service</h4>
+                            <p className="paragrafoWhyChooseUs">
+
+                            </p>
                             </div>
 
 
