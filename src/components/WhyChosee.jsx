@@ -40,11 +40,9 @@ const WhyChosee = () => {
                     <div className="divDaFlexBox">
 
                             <div className="movimentacaoDaImg">
-
+                            <img src={iconeProcess} alt="" />
                             </div>
 
-
-                    <img src={iconeProcess} alt="" />
                     </div>
 
                     <div className="divDaFlexBox">
