@@ -55,7 +55,7 @@ const WhyChosee = () => {
                             <br /><br />
                             <h4 className="tituloWhyChoseeDivs">Transparent Process</h4>
                             <p className="paragrafoWhyChooseUs">
-
+                            Stay informed with our clear and honest approach to buying your home
                             </p>
                             </div>
 
