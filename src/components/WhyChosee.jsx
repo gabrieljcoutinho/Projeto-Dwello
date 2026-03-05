@@ -22,7 +22,7 @@ const WhyChosee = () => {
                             <div className="movimentacaoDaImg">
                             <img src={iconeLocalizacao} alt="" />
 
-                            <h4 className="tituloWhyChoseeDivs"></h4>
+                            <h4 className="tituloWhyChoseeDivs">Expert Guidance</h4>
                             </div>
 
 
