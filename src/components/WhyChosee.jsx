@@ -68,7 +68,7 @@ const WhyChosee = () => {
                             <br /><br />
                             <h4 className="tituloWhyChoseeDivs">Exceptional Support</h4>
                             <p className="paragrafoWhyChooseUs">
-
+                            Providing peace of mind with our responsive and attentive customer service
                             </p>
                             </div>
 
