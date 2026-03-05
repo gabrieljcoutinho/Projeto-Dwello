@@ -53,7 +53,7 @@ const WhyChosee = () => {
 
                             <div className="movimentacaoDaImg">
                             <img src={iconeSuporte} alt="" />
-                            <h4 className="tituloWhyChoseeDivs"></h4>
+                            <h4 className="tituloWhyChoseeDivs">Exceptional Support</h4>
                             </div>
 
                     </div>
