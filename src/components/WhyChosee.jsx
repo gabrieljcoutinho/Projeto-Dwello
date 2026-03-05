@@ -1,6 +1,8 @@
 import React from 'react'
 import "../Css/WhyChoose.css"
 
+import iconeLocalizacao from "../img/iconeLocalizacao.png"
+
 
 const WhyChosee = () => {
   return (
