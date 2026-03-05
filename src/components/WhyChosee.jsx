@@ -29,7 +29,7 @@ const WhyChosee = () => {
 
                     <div className="divDaFlexBox">
 
-                    <img src={} alt="" />
+                    <img src={iconeProcess} alt="" />
                     </div>
 
                     <div className="divDaFlexBox">
