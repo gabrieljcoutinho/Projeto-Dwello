@@ -1,7 +1,6 @@
 @import url("../fonts//Montserrat.css");
 
 .escolhaDeCasa {
-    background-color: #e0dbdb;
     /* Removi o height fixo para evitar que o conteúdo transborde em telas menores */
     min-height: 400px;
     padding-bottom: 50px;
