@@ -23,6 +23,9 @@ const WhyChosee = () => {
                             <img src={iconeLocalizacao} alt="" />
 
                             <h4 className="tituloWhyChoseeDivs">Expert Guidance</h4>
+                            <p className="paragrafoWhyChooseUs">
+                              
+                            </p>
                             </div>
 
 
