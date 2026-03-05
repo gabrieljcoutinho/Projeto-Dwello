@@ -51,6 +51,9 @@ const WhyChosee = () => {
                             <div className="movimentacaoDaImg">
                             <img src={iconeProcess} alt="" />
                             <h4 className="tituloWhyChoseeDivs">Transparent Process</h4>
+                            <p className="paragrafoWhyChooseUs">
+
+                            </p>
                             </div>
 
                     </div>
