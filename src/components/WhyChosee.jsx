@@ -40,7 +40,7 @@ const WhyChosee = () => {
                             <br /><br />
                             <h4 className="tituloWhyChoseeDivs">Personalized Service</h4>
                             <p className="paragrafoWhyChooseUs">
-
+                            Our services adapt to your unique needs, making your journey stress-free
                             </p>
                             </div>
 
