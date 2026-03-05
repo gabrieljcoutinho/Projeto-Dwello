@@ -37,13 +37,13 @@
     background-color: #FBF5F1;
     width: 60px;
     border-radius: 10px;
-    padding: 20px;
+
 }
 
-.movimentacaoDaImg {
+/* .movimentacaoDaImg {
     padding-left: 5rem;
     padding-top: 1rem;
-}
+} */
 
 .tituloWhyChoseeDivs {
     font-size: 20px;
