@@ -36,6 +36,7 @@ const WhyChosee = () => {
 
                             <div className="movimentacaoDaImg">
                             <img src={iconeServices} alt="" />
+                            <br />
                             <h4 className="tituloWhyChoseeDivs">Personalized Service</h4>
                             <p className="paragrafoWhyChooseUs">
 
