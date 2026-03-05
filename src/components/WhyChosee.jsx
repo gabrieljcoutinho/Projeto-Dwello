@@ -21,6 +21,8 @@ const WhyChosee = () => {
 
                             <div className="movimentacaoDaImg">
                             <img src={iconeLocalizacao} alt="" />
+
+                            <h4 className="tituloWhyChoseeDivs"></h4>
                             </div>
 
 
@@ -48,7 +50,7 @@ const WhyChosee = () => {
                     <div className="divDaFlexBox">
 
                             <div className="movimentacaoDaImg">
-                            <img src={iconeSuporte} alt="" />   
+                            <img src={iconeSuporte} alt="" />
                             </div>
 
                     </div>
