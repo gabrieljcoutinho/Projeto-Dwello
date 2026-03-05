@@ -18,21 +18,41 @@ const WhyChosee = () => {
 
                 <div className="flexbox">
                     <div className="divDaFlexBox">
+
+                            <div className="movimentacaoDaImg">
+                              
+                            </div>
+
                     <img src={iconeLocalizacao} alt="" />
 
                     </div>
 
                     <div className="divDaFlexBox">
+
+                            <div className="movimentacaoDaImg">
+                              
+                            </div>
+
                     <img src={iconeServices} alt="" />
 
                     </div>
 
                     <div className="divDaFlexBox">
 
+                            <div className="movimentacaoDaImg">
+                              
+                            </div>
+
+
                     <img src={iconeProcess} alt="" />
                     </div>
 
                     <div className="divDaFlexBox">
+
+                            <div className="movimentacaoDaImg">
+                              
+                            </div>
+
                     <img src={iconeSuporte} alt="" />
 
                     </div>
