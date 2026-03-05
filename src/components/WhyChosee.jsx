@@ -3,6 +3,7 @@ import "../Css/WhyChoose.css"
 
 import iconeLocalizacao from "../img/iconeLocalizacao.png"
 import iconeServices from "../img/iconeServices.png"
+import iconeSuporte from "../img/iconeSuporte.png"
 
 
 const WhyChosee = () => {
