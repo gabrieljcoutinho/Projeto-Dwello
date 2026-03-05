@@ -18,7 +18,7 @@ const WhyChosee = () => {
 
                 <div className="flexbox">
                     <div className="divDaFlexBox">
-                    <img src={} alt="" />
+                    <img src={iconeLocalizacao} alt="" />
 
                     </div>
 
