@@ -13,6 +13,7 @@ function App() {
   <Header />
   <Home />
   <DreamHouse />
+  <br /><br />
   <WhyChosee />
 
     </div>
