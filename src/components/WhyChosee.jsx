@@ -30,10 +30,10 @@ const WhyChosee = () => {
                     <div className="divDaFlexBox">
 
                             <div className="movimentacaoDaImg">
-
+                            <img src={iconeServices} alt="" />
                             </div>
 
-                    <img src={iconeServices} alt="" />
+
 
                     </div>
 
