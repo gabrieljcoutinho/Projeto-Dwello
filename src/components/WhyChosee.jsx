@@ -28,7 +28,7 @@ const WhyChosee = () => {
 
                     <div className="divDaFlexBox">
 
-                        
+
                     </div>
                 </div>
 
