@@ -33,7 +33,7 @@ const WhyChosee = () => {
 
                             <div className="movimentacaoDaImg">
                             <img src={iconeServices} alt="" />
-                            <h4 className="tituloWhyChoseeDivs"></h4>
+                            <h4 className="tituloWhyChoseeDivs">Personalized Service</h4>
                             </div>
 
 
