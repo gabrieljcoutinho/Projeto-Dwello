@@ -63,6 +63,9 @@ const WhyChosee = () => {
                             <div className="movimentacaoDaImg">
                             <img src={iconeSuporte} alt="" />
                             <h4 className="tituloWhyChoseeDivs">Exceptional Support</h4>
+                            <p className="paragrafoWhyChooseUs">
+
+                            </p>
                             </div>
 
                     </div>
