@@ -25,7 +25,7 @@ const WhyChosee = () => {
 
                             <h4 className="tituloWhyChoseeDivs">Expert Guidance</h4>
                             <p className="paragrafoWhyChooseUs">
-
+                            Benefit from our team's seasoned expertise for a smooth buying experience
                             </p>
                             </div>
 
