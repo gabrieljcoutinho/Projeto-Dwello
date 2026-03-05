@@ -2,6 +2,7 @@ import React from 'react'
 import "../Css/WhyChoose.css"
 
 import iconeLocalizacao from "../img/iconeLocalizacao.png"
+import iconeServices from "../img/iconeServices.png"
 
 
 const WhyChosee = () => {
