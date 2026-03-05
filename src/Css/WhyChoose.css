@@ -23,21 +23,27 @@
 
 .flexbox {
     display: flex;
-    justify-content: center; /* Centraliza os cards no container */
-    flex-wrap: wrap; /* Permite que os cards quebrem linha se necessário */
+    justify-content: center;
+    /* Centraliza os cards no container */
+    flex-wrap: wrap;
+    /* Permite que os cards quebrem linha se necessário */
     padding: 2rem;
-    gap: 30px; /* Reduzi o gap para caber melhor na tela */
+    gap: 30px;
+    /* Reduzi o gap para caber melhor na tela */
 }
 
 .divDaFlexBox {
     background-color: #DDC7BB;
-    width: 300px; /* Ajustei a largura para algo mais padrão de cards */
-    height: 400px;
+    width: 300px;
+    /* Ajustei a largura para algo mais padrão de cards */
+    height: 300px;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    align-items: center; /* Centraliza os itens horizontalmente (imagem) */
-    text-align: left; /* Garante que o texto volte para a esquerda */
+    align-items: center;
+    /* Centraliza os itens horizontalmente (imagem) */
+    text-align: left;
+    /* Garante que o texto volte para a esquerda */
     padding: 20px;
 }
 
@@ -52,13 +58,16 @@
 
 .tituloWhyChoseeDivs {
     font-size: 20px;
-    width: 100%; /* Ocupa a largura total para respeitar o padding do pai */
-    padding-left: 1rem; /* O padding de 1rem que você pediu */
+    width: 100%;
+    /* Ocupa a largura total para respeitar o padding do pai */
+    padding-left: 1rem;
+    /* O padding de 1rem que você pediu */
     margin-top: 1.5rem;
 }
 
 .paragrafoWhyChooseUs {
     width: 100%;
-    padding-left: 1rem; /* O padding de 1rem que você pediu */
+    padding-left: 1rem;
+    /* O padding de 1rem que você pediu */
     margin-top: 0.5rem;
 }
