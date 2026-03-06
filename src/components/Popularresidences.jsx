@@ -35,7 +35,7 @@ const Popularresidences = () => {
 
                     <ul className="compraEpreco">
                       <li className='listaBtnComprar'><button className='btnComprarCasa'>Buy Now</button></li>
-                      <li className='listaBtnComprar'><p>$2,500,000</p></li>
+                      <li className='listaBtnComprar'><p className='textoPrecoDaCasa'>$2,500,000</p></li>
                     </ul>
 
             </div>
