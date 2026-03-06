@@ -20,7 +20,7 @@ const Popularresidences = () => {
                     <img src={img1} alt="" />
 
                     <ul className="listaIconeEnomeCidade">
-                        <li></li>
+                    <li><img src={imgMaps} alt="" /></li>
                         <li></li>
                     </ul>
 
