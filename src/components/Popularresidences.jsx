@@ -19,11 +19,11 @@ const Popularresidences = () => {
                     <img src={img1} alt="" />
             </div>
 
-            <div className="div flexBoxDivCasasVendas">
+            <div className="divFlexBoxDivCasasVendas">
             <img src={img2} alt="" />
             </div>
 
-            <div className="div flexBoxDivCasasVendas">
+            <div className="divFlexBoxDivCasasVendas">
             <img src={img3} alt="" />
             </div>
 
