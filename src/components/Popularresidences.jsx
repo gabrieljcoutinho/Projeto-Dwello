@@ -5,6 +5,7 @@ import img1 from "../img/casaVenda1.png"
 import img2 from "../img/casaVenda2.png"
 import img3 from "../img/casaVenda3.png"
 
+import imgMaps from "../img/iconeMaps.png"
 
 const Popularresidences = () => {
   return (
