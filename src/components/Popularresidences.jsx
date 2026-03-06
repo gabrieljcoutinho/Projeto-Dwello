@@ -27,6 +27,11 @@ const Popularresidences = () => {
                         <li className='itemListaCidade'>San Francisco, California</li>
                     </ul>
 
+                    <ul className="tamanhoDaCasa">
+                      <li></li>
+                      <li></li>
+                    </ul>
+
             </div>
 
             <div className="divFlexBoxDivCasasVendas">
