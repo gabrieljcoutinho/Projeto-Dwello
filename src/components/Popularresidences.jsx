@@ -1,9 +1,10 @@
 import React from 'react'
 
 
+
 const Popularresidences = () => {
   return (
-    <div>Popularresidences</div>
+    <div><h4 className="tituloResidenciasPopulares">Pur Populares residences</h4></div>
   )
 }
 
