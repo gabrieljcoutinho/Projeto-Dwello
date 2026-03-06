@@ -8,6 +8,7 @@ import img3 from "../img/casaVenda3.png"
 import imgMaps from "../img/iconeMaps.png"
 
 import imgQuarto from "../img/iconeQuarto.png"
+import imgLargura from "../img/iconeLargura.png"
 
 const Popularresidences = () => {
   return (
