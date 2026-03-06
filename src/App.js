@@ -18,6 +18,7 @@ function App() {
   <br /><br />
   <WhyChosee />
   <Popularresidences />
+  <OpnionAboutDwello/>
 
     </div>
   );
