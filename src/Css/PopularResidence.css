@@ -12,6 +12,10 @@
 
 }
 
+.residenciasPopularesFlexBox {
+    gap: 130px;
+}
+
 .divFlexBoxDivCasasVendas {
     background-color: #DDC7BB;
     height: 600px;
