@@ -5,6 +5,7 @@ import Home from './components/Home.jsx';
 import DreamHouse from './components/DreamHouse.jsx';
 import WhyChosee from './components/WhyChosee.jsx';
 import Popularresidences from './components/Popularresidences.jsx';
+import OpnionAboutDwello from "./components/OpnionAboutDwello.jsx"
 
 
 function App() {
