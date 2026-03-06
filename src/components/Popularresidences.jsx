@@ -31,7 +31,7 @@ const Popularresidences = () => {
 
             <ul className="listaIconeEnomeCidade">
                         <li><img src={imgMaps} alt="" /></li>
-                        <li>Bervely Hills, California</li>
+                        <li className='itemListaCidade' >Bervely Hills, California</li>
                     </ul>
 
             </div>
