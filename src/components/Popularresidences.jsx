@@ -14,7 +14,7 @@ const Popularresidences = () => {
         <h4 className="tituloResidenciasPopulares">Our Populares residences</h4>
 
 
-        <div className="flexbox">
+        <div className="flexbox residenciasPopularesFlexBox">
 
             <div className="divFlexBoxDivCasasVendas">
                     <img src={img1} alt="" />
