@@ -45,6 +45,10 @@
     font-weight: 700;
 }
 
-.tamanhoDaCasa{
+.tamanhoDaCasa {
+    display: flex;
+}
+
+.listaUlTamnhoDaCasa {
     display: flex;
 }
