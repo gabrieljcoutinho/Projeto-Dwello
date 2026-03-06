@@ -1,5 +1,9 @@
 @import url("../fonts//Montserrat.css");
 
+.sectionPopularResidences{
+    background-color: red;
+}
+
 .tituloResidenciasPopulares {
     color: #2B1B12;
     font-size: 50px;
