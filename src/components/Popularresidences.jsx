@@ -20,7 +20,7 @@ const Popularresidences = () => {
         <div className="flexbox residenciasPopularesFlexBox">
 
             <div className="divFlexBoxDivCasasVendas">
-                    <img src={img1} alt="" className='imgCasa'/>
+                    <img src={img1} alt=""/>
 
                     <ul className="listaIconeEnomeCidade">
                     <li><img src={imgMaps} alt="" /></li>
@@ -38,7 +38,7 @@ const Popularresidences = () => {
             <img src={img2} alt="" />
 
             <ul className="listaIconeEnomeCidade">
-                        <li><img src={imgMaps} alt="" className='imgCasa' /></li>
+                        <li><img src={imgMaps} alt="" /></li>
                         <li className='itemListaCidade' >Bervely Hills, California</li>
                     </ul>
 
@@ -50,7 +50,7 @@ const Popularresidences = () => {
             </div>
 
             <div className="divFlexBoxDivCasasVendas">
-            <img src={img3} alt="" className='imgCasa'  />
+            <img src={img3} alt=""  />
 
             <ul className="listaIconeEnomeCidade">
             <li><img src={imgMaps} alt="" /></li>
