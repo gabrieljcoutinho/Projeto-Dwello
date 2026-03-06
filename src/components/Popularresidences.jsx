@@ -57,6 +57,11 @@ const Popularresidences = () => {
                         <li className='itemListaCidade'>Palo Alto, California</li>
                     </ul>
 
+                    <ul className="tamanhoDaCasa">
+                      <li className='listaUlTamnhoDaCasa'><img src={imgQuarto} alt="" className='imgListaUlTamnhoDaCasa' /></li>
+                      <li className='listaUlTamnhoDaCasa'><img src={imgLargura} alt="" className='imgListaUlTamnhoDaCasa' /></li>
+                    </ul>
+
             </div>
 
         </div>
