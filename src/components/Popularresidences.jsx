@@ -18,6 +18,12 @@ const Popularresidences = () => {
 
             <div className="divFlexBoxDivCasasVendas">
                     <img src={img1} alt="" />
+
+                    <ul className="listaIconeEnomeCidade">
+                        <li><a href=""></a></li>
+                        <li><a href=""></a></li>
+                    </ul>
+
             </div>
 
             <div className="divFlexBoxDivCasasVendas">
