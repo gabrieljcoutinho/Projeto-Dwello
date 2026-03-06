@@ -35,7 +35,7 @@ const Popularresidences = () => {
             </div>
 
             <div className="divFlexBoxDivCasasVendas">
-            <img src={img2} alt="" />
+            <img src={img2} className='imgDaCasaNaVendaOurPopularesResidences' alt="" />
 
             <ul className="listaIconeEnomeCidade">
                         <li><img src={imgMaps} alt="" /></li>
