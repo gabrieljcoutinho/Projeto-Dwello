@@ -12,7 +12,7 @@ import imgLargura from "../img/iconeLargura.png"
 
 const Popularresidences = () => {
   return (
-    <div>
+    <div className='sectionPopularResidences'>
 
         <h4 className="tituloResidenciasPopulares">Our Populares residences</h4>
 
