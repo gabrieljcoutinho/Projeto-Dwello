@@ -6,3 +6,7 @@
     text-align: center;
     font-family: Montserrat;
 }
+
+.flexbox {
+    display: flex;
+}
