@@ -50,7 +50,7 @@ const Popularresidences = () => {
             </div>
 
             <div className="divFlexBoxDivCasasVendas">
-            <img src={img3} alt=""  />
+            <img src={img3} className='imgDaCasaNaVendaOurPopularesResidences' alt=""  />
 
             <ul className="listaIconeEnomeCidade">
             <li><img src={imgMaps} alt="" /></li>
