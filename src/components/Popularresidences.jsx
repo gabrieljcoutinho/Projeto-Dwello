@@ -56,7 +56,7 @@ const Popularresidences = () => {
 
                     <ul className="compraEpreco">
                       <li className='listaBtnComprar'><button>Buy</button></li>
-                      <li><p>$850,000</p></li>
+                      <li className='listaBtnComprar'><p>$850,000</p></li>
                     </ul>
 
             </div>
