@@ -11,9 +11,17 @@ const Popularresidences = () => {
 
         <div className="flexbox">
 
-            <div className="div flexBoxDivCasasVendas"></div>
-            <div className="div flexBoxDivCasasVendas"></div>
-            <div className="div flexBoxDivCasasVendas"></div>
+            <div className="div flexBoxDivCasasVendas">
+
+            </div>
+
+            <div className="div flexBoxDivCasasVendas">
+
+            </div>
+
+            <div className="div flexBoxDivCasasVendas">
+
+            </div>
 
         </div>
 
