@@ -10,3 +10,8 @@
 .flexbox {
     display: flex;
 }
+
+.divFlexBoxDivCasasVendas {
+    background-color: red;
+    height: 500px;
+}
