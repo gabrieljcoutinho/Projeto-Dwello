@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "../Css/PopularResidence.css"
 
 
 const Popularresidences = () => {
