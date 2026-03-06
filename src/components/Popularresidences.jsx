@@ -21,7 +21,7 @@ const Popularresidences = () => {
 
                     <ul className="listaIconeEnomeCidade">
                     <li><img src={imgMaps} alt="" /></li>
-                        <li></li>
+                        <li>San Francisco, California</li>
                     </ul>
 
             </div>
