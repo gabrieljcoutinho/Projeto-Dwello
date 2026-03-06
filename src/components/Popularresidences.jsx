@@ -1,6 +1,8 @@
 import React from 'react'
 import "../Css/PopularResidence.css"
 
+import img1 from "../img/casaVenda1.png"
+
 
 const Popularresidences = () => {
   return (
