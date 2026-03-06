@@ -34,7 +34,7 @@ const Popularresidences = () => {
 
 
                     <ul className="compraEpreco">
-                      <li className='listaBtnComprar'><button>Buy</button></li>
+                      <li className='listaBtnComprar'><button>Buy Now</button></li>
                       <li className='listaBtnComprar'><p>$2,500,000</p></li>
                     </ul>
 
@@ -55,7 +55,7 @@ const Popularresidences = () => {
 
 
                     <ul className="compraEpreco">
-                      <li className='listaBtnComprar'><button>Buy</button></li>
+                      <li className='listaBtnComprar'><button>Buy Now</button></li>
                       <li className='listaBtnComprar'><p>$850,000</p></li>
                     </ul>
 
@@ -75,7 +75,7 @@ const Popularresidences = () => {
                     </ul>
 
                     <ul className="compraEpreco">
-                      <li className='listaBtnComprar'><button>Buy</button></li>
+                      <li className='listaBtnComprar'><button>Buy Now</button></li>
                       <li className='listaBtnComprar'><p>$3,700,000</p></li>
                     </ul>
 
