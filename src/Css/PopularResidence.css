@@ -47,6 +47,7 @@
 .tamanhoDaCasa {
     display: flex;
     gap: 25px;
+    padding-left: 1rem;
 }
 
 .listaUlTamnhoDaCasa {
