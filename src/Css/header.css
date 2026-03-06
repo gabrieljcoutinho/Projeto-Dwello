@@ -39,6 +39,9 @@
     color: #2B1B12;
     font-family: 'Montserrat';
     font-weight: 700;
+}
+
+.linkHeaderLista:hover{
     cursor: pointer;
 }
 
