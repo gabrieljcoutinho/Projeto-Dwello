@@ -41,8 +41,9 @@
     font-weight: 700;
 }
 
-.linkHeaderLista:hover{
+.linkHeaderLista:hover {
     cursor: pointer;
+    text-decoration: underline;
 }
 
 .iconesHeader {
