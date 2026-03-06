@@ -3,6 +3,7 @@ import "../Css/PopularResidence.css"
 
 import img1 from "../img/casaVenda1.png"
 import img2 from "../img/casaVenda2.png"
+import img3 from "../img/casaVenda3.png"
 
 
 const Popularresidences = () => {
@@ -23,7 +24,7 @@ const Popularresidences = () => {
             </div>
 
             <div className="div flexBoxDivCasasVendas">
-
+            <img src={img3} alt="" />
             </div>
 
         </div>
