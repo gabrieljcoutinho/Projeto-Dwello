@@ -2,6 +2,7 @@ import React from 'react'
 import "../Css/PopularResidence.css"
 
 import img1 from "../img/casaVenda1.png"
+import img2 from "../img/casaVenda2.png"
 
 
 const Popularresidences = () => {
@@ -18,7 +19,7 @@ const Popularresidences = () => {
             </div>
 
             <div className="div flexBoxDivCasasVendas">
-
+            <img src={img2} alt="" />
             </div>
 
             <div className="div flexBoxDivCasasVendas">
