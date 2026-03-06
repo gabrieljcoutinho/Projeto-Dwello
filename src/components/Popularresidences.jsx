@@ -62,6 +62,11 @@ const Popularresidences = () => {
                       <li className='listaUlTamnhoDaCasa'><img src={imgLargura} alt="" className='imgListaUlTamnhoDaCasa' /><p>4,000 sq ft</p></li>
                     </ul>
 
+                    <ul className="compraEpreco">
+                      <li className='listaBtnComprar'><button>Sign Up</button></li>
+                      <li><p>$2,500,000</p></li>
+                    </ul>
+
             </div>
 
         </div>
