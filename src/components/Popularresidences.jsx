@@ -29,7 +29,7 @@ const Popularresidences = () => {
 
                     <ul className="tamanhoDaCasa">
                       <li className='listaUlTamnhoDaCasa'><img src={imgQuarto} alt="" className='imgListaUlTamnhoDaCasa' /> <p>3 rooms</p> </li>
-                      <li className='listaUlTamnhoDaCasa'><img src={imgLargura} alt="" className='imgListaUlTamnhoDaCasa' /></li>
+                      <li className='listaUlTamnhoDaCasa'><img src={imgLargura} alt="" className='imgListaUlTamnhoDaCasa' /><p>3,500 sq ft</p></li>
                     </ul>
 
             </div>
