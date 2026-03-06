@@ -64,10 +64,16 @@
     font-family: Montserrat;
     font-weight: 700;
     gap: 10px;
+    list-style-type: none
 }
+
 
 .compraEpreco {
     display: flex;
     gap: 20px;
     padding-left: 2rem;
+}
+
+.listaBtnComprar {
+    list-style: none;
 }
