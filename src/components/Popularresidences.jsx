@@ -15,7 +15,7 @@ const Popularresidences = () => {
 
         <div className="flexbox">
 
-            <div className="div flexBoxDivCasasVendas">
+            <div className="divFlexBoxDivCasasVendas">
                     <img src={img1} alt="" />
             </div>
 
