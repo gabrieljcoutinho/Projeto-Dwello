@@ -3,7 +3,7 @@ import "../Css/opnionAboutDwello.css"
 
 const OpnionAboutDwello = () => {
   return (
-    <div>OpnionAboutDwello</div>
+    <div className='OpnionAboutDwello'>OpnionAboutDwello</div>
   )
 }
 
