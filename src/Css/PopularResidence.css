@@ -69,4 +69,5 @@
 .compraEpreco {
     display: flex;
     gap: 20px;
+    padding-left: 2rem;
 }
